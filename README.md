@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @bertvanstaeyen
-- 👀 I’m interested in webdevelopment, Python, Django, ...
-- 🌱 I’m currently learning Django
+
 
 
 <!---
